@@ -79,7 +79,6 @@
 		368179C42213E1C500C0B043 = {
 			isa = PBXGroup;
 			children = (
-				368179FE2213E36800C0B043 /* test.swift */,
 				368179CF2213E1C600C0B043 /* Weather */,
 				368179E42213E1CD00C0B043 /* WeatherTests */,
 				368179EF2213E1CE00C0B043 /* WeatherUITests */,
@@ -100,6 +99,7 @@
 		368179CF2213E1C600C0B043 /* Weather */ = {
 			isa = PBXGroup;
 			children = (
+				368179FE2213E36800C0B043 /* test.swift */,
 				368179D02213E1C600C0B043 /* AppDelegate.swift */,
 				368179D22213E1C600C0B043 /* ViewController.swift */,
 				368179D42213E1C600C0B043 /* Main.storyboard */,
